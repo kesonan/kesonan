@@ -4,9 +4,9 @@
 My name is anqiansong and I'm a Golang Software Developer engineer. I'm from ShangHai China, currently working at TAL.
 
 ### Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=anqiansong&theme=radical" style="height: 200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqiansong&layout=compact&theme=radical" style="height: 200px"/>
+<div style="background: #141320;float:left;margin-right:20px">
+    <img src="https://github-readme-stats.vercel.app/api?username=anqiansong&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqiansong&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 
