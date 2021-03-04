@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="913px" height="196px" viewBox="0 0 913 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="855px" height="245px" viewBox="0 0 855 245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>画板</title>
-    <defs>
-        <text id="text-1" font-family="Zapfino" font-size="60" font-weight="normal" letter-spacing="1.00000036" fill="#000000">
-            <tspan x="235.999998" y="110">an qian song </tspan>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1D1F21" x="0" y="0" width="855" height="245"></rect>
+        <text id="Hi-geeks-I’m-anqians" font-family="Chalkduster" font-size="60" font-weight="normal" letter-spacing="1.00000036" fill="#5CB88D">
+            <tspan x="281.654695" y="106">Hi geeks </tspan>
+            <tspan x="153.118782" y="182">I’m anqiansong</tspan>
         </text>
-        <filter x="-1.9%" y="-2.0%" width="103.4%" height="107.9%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="-1" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <text id="text-3" font-family="Zapfino" font-size="60" font-weight="normal" letter-spacing="1.00000036" fill="#000000">
-            <tspan x="237.999998" y="109">an qian song </tspan>
-        </text>
-        <filter x="-1.9%" y="-2.0%" width="103.4%" height="107.9%" filterUnits="objectBoundingBox" id="filter-4">
-            <feOffset dx="-1" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
-        <g id="an-qian-song" fill="#000000">
-            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
-            <use xlink:href="#text-1"></use>
-        </g>
-        <g id="an-qian-song备份" fill="#000000">
-            <use filter="url(#filter-4)" xlink:href="#text-3"></use>
-            <use xlink:href="#text-3"></use>
-        </g>
     </g>
 </svg>
