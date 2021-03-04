@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**anqiansong/anqiansong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![anqiansong](anqiansong.svg)
 
-Here are some ideas to get you started:
+### Stats
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anqiansong&show_icons=true&text_color=32C5FF&title_color=FF5A51&icon_color=0091FF" style="height: 200px;width: 500px;object-fit: cover;margin: 4px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anqiansong&layout=compact&text_color=32C5FF&title_color=FF5A51&icon_color=0091FF" style="height: 200px;width: 500px;object-fit: cover;margin: 4px"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### pinned
+
+<div style="display: flex;flex-wrap: wrap;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anqiansong&repo=hey-go-zero" style="height: 200px;width: 500px;object-fit: fill;margin: 4px"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anqiansong&repo=hey-go-zero" style="height: 200px;width: 500px;object-fit: fill;margin: 4px"/>
+</div>
