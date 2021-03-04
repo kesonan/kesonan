@@ -13,6 +13,10 @@ My name is anqiansong and I'm a Golang Software Developer engineer. I'm from Sha
 ### pinned
 
 <div style="display: flex;flex-wrap: wrap;">
+<a href="https://github.com/anqiansong/hey-go-zero">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anqiansong&repo=hey-go-zero&theme=monokai" style="height: 200px;width: 500px;object-fit: fill;margin: 4px"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anqiansong&repo=hey-go-zero&theme=bear" style="height: 200px;width: 500px;object-fit: fill;margin: 4px"/>
+</a>
+<a href="https://github.com/zeromicro/goctl-intellij">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zeromicro&repo=goctl-intellij&theme=bear" style="height: 200px;width: 500px;object-fit: fill;margin: 4px"/>
+</a>
 </div>
