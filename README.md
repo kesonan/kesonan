@@ -1,6 +1,6 @@
 ![anqiansong](anqiansong.svg)
 
-### Hi geeks <img src="https://raw.githubusercontent.com/anqiansong/anqiansong/master/wave.gif" width="30px">
+### Hi geeks
 My name is anqiansong and I'm a Golang Software Developer engineer. I'm from ShangHai China, currently working at ByteDance.
 
 ### Stats
